@@ -1,0 +1,10 @@
+myenv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+*.pyc
+*.pt
+*.pth
+*.bin
+*.safetensors
